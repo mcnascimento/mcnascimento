@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mcnascimento
+- 👀 I’m interested in programming and new technologies
+- 🌱 I’m currently learning HTML and SQL
